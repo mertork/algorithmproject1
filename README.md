@@ -3,3 +3,5 @@
 <a href="Insertionselectionproject.md">Project1</a>
 
 <a href="mergeproject.md">Project2</a>
+
+<a href="binaryproject.md">Project3</a>
